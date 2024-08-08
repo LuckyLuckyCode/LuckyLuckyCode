@@ -1,3 +1,4 @@
+![Contribution](https://activity-graph.herokuapp.com/graph?username=madushadhanushka&theme=react-dark&hide_border=true&area=true)
 # Ethan Wu
 
 ## 👋 Hi, I'm Ethan Wu
