@@ -1,4 +1,5 @@
-# Ethan Wu
+# ![list_banner](https://github.com/user-attachments/assets/11bf20d0-20b2-4f02-b2b4-2fc12229ddfe)
+Ethan Wu
 
 ## 👋 Hi, I'm Ethan Wu
 
